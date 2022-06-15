@@ -1,0 +1,92 @@
+{
+  "level": [
+    {
+      "type": "image",
+      "key": "bg",
+      "url": "assets/images/bg.png",
+      "overwrite": false
+    },
+    {
+      "type": "spritesheet",
+      "key": "girl",
+      "url": "assets/sprites/girl.png",
+      "frameWidth": 221,
+      "frameHeight": 251,
+      "frameMax": -1,
+      "margin": 0,
+      "spacing": 0
+    },
+    {
+      "type": "image",
+      "key": "cake",
+      "url": "assets/images/cake.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "peppers",
+      "url": "assets/images/peppers.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "quoteFeedMe",
+      "url": "assets/images/quoteFeedMe.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "hand",
+      "url": "assets/images/hand.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "noBtn",
+      "url": "assets/images/noBtn.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "yesBtn",
+      "url": "assets/images/yesBtn.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "quoteNo",
+      "url": "assets/images/quoteNo.png",
+      "overwrite": false
+    },
+    {
+      "type": "script",
+      "key": "endCard",
+      "url": "assets/canvas/prefabs/endCard.js"
+    },
+    {
+      "type": "image",
+      "key": "LOGO",
+      "url": "assets/images/LOGO.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "playNow",
+      "url": "assets/images/playNow.png",
+      "overwrite": false
+    },
+    {
+      "type": "image",
+      "key": "window",
+      "url": "assets/images/window.png",
+      "overwrite": false
+    }
+  ],
+  "meta": {
+    "generated": "1655307347073",
+    "app": "Phaser Editor",
+    "url": "http://phasereditor.boniatillo.com",
+    "version": "1.0",
+    "copyright": "Arian Fornaris (c) 2015,2016"
+  }
+}
